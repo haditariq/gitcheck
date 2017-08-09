@@ -1,1 +1,1 @@
-this is my first git commit!
+this is my first git commit! and its kinda easy
