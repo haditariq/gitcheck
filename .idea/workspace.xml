@@ -69,8 +69,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="gitfirst" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gitfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -106,12 +106,12 @@
       <option name="presentableId" value="Default" />
       <updated>1502306622649</updated>
       <workItem from="1502306629196" duration="42000" />
-      <workItem from="1502308224694" duration="223000" />
+      <workItem from="1502308224694" duration="834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265000" />
+    <option name="totallyTimeSpent" value="876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
